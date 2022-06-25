@@ -1,5 +1,5 @@
 # Self-frt-project:
-This is my final project for FRT internship, in which I have created an interior design and furniture store website that will help people to purchase and decorate their houses as per their desired needs.
+This is my final project for FRT internship, in which I have created an interior design and furniture store website named as 'Fitment', that will help people to purchase and decorate their houses as per their desired needs.
 
 # Azure link:
 https://happy-pebble-0a08d8010.1.azurestaticapps.net/
