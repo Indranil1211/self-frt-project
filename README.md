@@ -1,5 +1,5 @@
 # Self-frt-project:
-This is my final project for FRT internship.
+This is my final project for FRT internship, in which I have created an interior design and furniture store website.
 
 # Azure link:
 https://happy-pebble-0a08d8010.1.azurestaticapps.net/
